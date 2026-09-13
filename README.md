@@ -2,7 +2,7 @@
 
 Computer Science undergraduate focused on software development and practical problem-solving.
 
-### 💻 Stack & Tecnologias
+### 💻 Stack & Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,10 +12,10 @@ Computer Science undergraduate focused on software development and practical pro
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvmfort&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </div>
 
