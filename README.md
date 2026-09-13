@@ -23,5 +23,5 @@ Computer Science undergraduate focused on software development and practical pro
 
 ### 📫 Onde me encontrar
 
-- **LinkedIn:** [linkedin.com/in/SEU_USUARIO](https://linkedin.com/in/SEU_USUARIO)
-- **E-mail:** seuemail@exemplo.com
+- **LinkedIn:** [(https://linkedin.com/in/)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-monteiro-fortunato-68420533b/)
+- **E-mail:** jvmfortunato@gmail.com // joao.monteiro@dcx.ufpb.br
