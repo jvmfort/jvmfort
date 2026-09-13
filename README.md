@@ -15,8 +15,7 @@ Computer Science undergraduate focused on software development and practical pro
 ### 📊 Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvmfort&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmfort&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvmfort&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
