@@ -1,6 +1,6 @@
 # Hi there, my name is João Vítor
 
-Computer Science undergraduate focused on software development and practical problem-solving.
+Computer Science undergraduate focused on software development and practical problem-solving. Currently focusing on coursework projects and academic assignments as part of my Computer Science degree.
 
 ### 💻 Stack & Technologies
 
