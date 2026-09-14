@@ -15,7 +15,7 @@ Computer Science undergraduate focused on software development and practical pro
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvmfort&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvmfort&theme=github_dark" alt="GitHub" />
 </div>
 
 ---
