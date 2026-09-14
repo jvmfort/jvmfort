@@ -17,6 +17,10 @@ Computer Science undergraduate focused on software development and practical pro
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jvmfort&theme=github_dark" alt="GitHub Streak" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvmfort&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=jvmfort&theme=github_dark" alt="GitHub Streak" />
+</div>
 ---
 
 ### 📫 Onde me encontrar
